@@ -14,8 +14,8 @@ export const createProgram = () => {
     const polaroid = options.output;
 
     if(!photo || !polaroid){
-        console.error('source and file must be provided');
-        console.log(`SOURCE: ${photo}, FILE ${polaroid}`);
+        console.error('input photo path and output save path must be provided');
+        console.log(`use polaroid --help for more details`);
         process.exit(1);
     }
     return { photo, polaroid };
