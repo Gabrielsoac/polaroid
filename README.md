@@ -1,6 +1,6 @@
 # POLAROID
 
-[polaroid-camera](./polaroid-image.jpg)
+![polaroid-camera](./polaroid-image.jpg)
 
 ## Install Polaroid
 
