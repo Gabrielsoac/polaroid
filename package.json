@@ -1,0 +1,23 @@
+{
+  "name": "polaroid",
+  "version": "0.0.1",
+  "description": "Polaroid Project",
+  "main": "src/polaroid.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielsoac/polaroid.git"
+  },
+  "author": "Gabriel Soares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabrielsoac/polaroid/issues"
+  },
+  "homepage": "https://github.com/Gabrielsoac/polaroid#readme",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}
