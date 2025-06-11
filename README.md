@@ -33,7 +33,7 @@ in terminal, use the command:
 - The first argument is a path with the photo name
 - The second argument is a path with the output name file
 
-Exemple, enter /home/gab/family.png in first parameter and /home/gab/family-polaroid.png
+Example, enter /home/gab/family.png in first parameter and /home/gab/family-polaroid.png
 
 The family.png is a photo that will be tranform in polaroid
 
