@@ -30,8 +30,15 @@ chmod +x install.sh
 
 in terminal, use the command:
 
+- The first argument is a path with the photo name
+- The second argument is a path with the output name file
+
+Exemple, enter /home/gab/family.png in first parameter and /home/gab/family-polaroid.png
+
+The family.png is a photo that will be tranform in polaroid
+
 ```
-polaroid -i <path/filename.png> -i <path/polaroid-filename.png>
+polaroid -i <path/filename.png> -o <path/polaroid-filename.png>
 ```
 
 > ALERT: Keep the same extension name (PNG or JPEG)
